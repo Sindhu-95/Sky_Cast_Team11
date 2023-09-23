@@ -25,10 +25,6 @@ Additional description about the project and its features.
 - BOOTSTRAP
 - GITHUB ACTIONS
 
-## Live Demo
-
-[Live Demo Link](https://sindhu-95.github.io/Sky_cast_TEAM11) :point_left:
-
 ## Getting Started
 - Follow the live demo link and enjoy the site.
 
